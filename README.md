@@ -28,6 +28,7 @@ Firstly, input a max number to prove the three odds:
  31=1+1+29, Conjecture on number 31 is true
  33=1+1+31, Conjecture on number 33 is true
 ```
+
 And when I input 100000, it take a so long time that I can not wait the answer showing.
 
 ## Whis is this finally?
