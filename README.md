@@ -3,7 +3,7 @@ The program is written for verifying Goldbach's Weak Conjecture.
 
 There are just tens of lines code.
 
-##Notive
+##Notice
 And ofcourse, I did not solve the conjecture. For this program designed to verify the conjecture when the number is below *Max* that the number you input.
 
 ##For Example:
