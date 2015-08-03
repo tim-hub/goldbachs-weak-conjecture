@@ -31,6 +31,6 @@ Firstly, input a max number to prove the three odds:
 
 And when I input 100000, it take a so long time that I can not wait the answer showing.
 
-## Whis is this finally?
+## What is this?
 
 Ok, to be honest, this is just a few lines of codes to practice myself.
