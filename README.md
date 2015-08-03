@@ -2,6 +2,11 @@
 The program is written for verifying Goldbach's Weak Conjecture.
 There are just tens of lines code.
 
+##About Goldbach's weak conjecture
+In number theory, Goldbach's weak conjecture, also known as the odd Goldbach conjecture, the ternary Goldbach problem, or the 3-primes problem, states that:
+
+    Every odd number greater than 5 can be expressed as the sum of three primes. (A prime may be used more than once in the same sum.) 
+
 ##Notice
 And ofcourse, I did not solve the conjecture. For this program designed to verify the conjecture when the number is below *Max* that the number you input.
 
